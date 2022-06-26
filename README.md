@@ -1,7 +1,7 @@
 # UltiDry-Website
 Final assignment for Web fundamentals WEB1201
 
-Fully functional e-commerce website, includes sign up, sign in and sign out system
+Functional e-commerce website; includes registration and log in system
 
 ![Capture1](https://user-images.githubusercontent.com/71051680/175625118-bd03f5cd-d2c9-4a36-9a4a-13ca68c2bc98.PNG)
 ![Capture23](https://user-images.githubusercontent.com/71051680/175639528-5d5794f1-a44b-497d-bd1d-139045150b8c.PNG)
